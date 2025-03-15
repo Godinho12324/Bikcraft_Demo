@@ -1,18 +1,16 @@
-# Pet Online
+# Bikcraft
 
-![Visualização do site Pet Online](./github/capa-do-projeto-1.jpg)
-![Visualização do site Pet Online](./github/capa-do-projeto-2.jpg)
+![Visualização do site Bikcraft](./github/capa-do-projeto-1.jpg)
+![Visualização do site Bikcraft](./github/capa-do-projeto-2.jpg)
 
 ## Bem-vindo! 👋
 Obrigado por ver meu projeto!
 
-## Badges
-
 ## Descrição do projeto 😀
-Esse projeto aborda sobre o Pet Online, uma rede social para pets, feito com a ajuda da plataforma Alura.
+Esse projeto aborda sobre a Bikcraft, um site de compras de bicicletas, feito com a ajuda da plataforma Origamid.
 
 ## Como os usuários podem utilizá-lo?
-Neste site, podemos encontrar fotos de animais e postagens de usuários.
+Neste site, podemos encontrar uma das bicicletas da loja, sendo mostrada.
 
 ## Tem algum feedback? 😁
 Adoro receber feedbacks! Estou sempre buscando melhorar meus projetos. Então, se você tiver algo que gostaria de mencionar, envie um e-mail para carvalho.godinho2008@gmail.com!
@@ -21,9 +19,9 @@ Adoro receber feedbacks! Estou sempre buscando melhorar meus projetos. Então, s
 HTML5 e CSS3
 
 ## Contribuidores
-Alura
+Origamid
 
 ## Autor do projeto.
-Pedro de Carvalho
+Pedro Godinho
 
 **Compartilhe este repositório!** 🚀
