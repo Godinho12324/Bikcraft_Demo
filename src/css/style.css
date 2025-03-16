@@ -140,7 +140,7 @@ main {
 }
 
 h2 {
-    background-image: url(onda.svg);
+    background-image: url(../img/onda.svg);
     color: #30303040;
     text-align: end;
     font-size: 3.5rem;
